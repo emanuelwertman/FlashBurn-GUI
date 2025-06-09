@@ -1,3 +1,3 @@
 QT += widgets
-TARGET = dialog-app
-SOURCES += dialogapp.cpp
+TARGET = FlashBurn
+SOURCES += flashBurn.cpp
